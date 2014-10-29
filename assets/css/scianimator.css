@@ -37,6 +37,7 @@
 }
 .scianimator a,
 .scianimator a:visited {
+	font-size: 20px;
 	cursor: pointer;
 	display: inline-block;
 	padding: 5px 10px;
