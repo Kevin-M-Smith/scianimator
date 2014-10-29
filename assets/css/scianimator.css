@@ -35,6 +35,12 @@
 	padding: 4px;
 	position: relative;
 }
+
+.scianimator .next{
+	font-size: 40px;	
+}
+}
+
 .scianimator a,
 .scianimator a:visited {
 	font-size: 20px;
