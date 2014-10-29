@@ -10,6 +10,7 @@
 .scianimator.light,
 .scianimator.light a,
 .scianimator.light a:visited {
+	font-size = 40px;
 	color: #555;
 }
 .scianimator.light {
