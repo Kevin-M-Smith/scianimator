@@ -20,6 +20,7 @@
 }
 .scianimator .controls,
 .scianimator .control {
+	font-size: 20px;
 	border: 1px solid;
 	border-radius: 4px;
 	-moz-border-radius: 4px;
