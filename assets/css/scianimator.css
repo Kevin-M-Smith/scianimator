@@ -7,10 +7,10 @@
 */
 
 /* Comment out @imports for themes not in use */
-@import url('scianimator.light.css');
+/*@import url('scianimator.light.css');
 @import url('scianimator.dark.css');
 @import url('scianimator.blue.css');
-
+*/
 .scianimator {
 	font-family: 'Lucida Grande', sans-serif;
 	font-size: 20px;
